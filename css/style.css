@@ -1,0 +1,33 @@
+.dbg{
+    background-image: url(../images/pexels-photo-103305.jpeg);
+    height: 100vh;
+    background-size: cover;
+}
+.layer{
+    background-color: #1c1c1de1;
+    height: 100vh;
+}
+h1{
+    color: aliceblue;
+    padding-top: 1em;
+}
+button{
+    width: 200px;
+    height: 50px;
+    background-color: #32394c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+
+}
+h1{
+    font-size: 80px;
+    font-family: Impact;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 1em;
+    font-size: 20px ;
+    font-weight: 600;
+    color: aliceblue;
+}
